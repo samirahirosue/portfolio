@@ -46,7 +46,7 @@ Como melhoria do projeto, foi adicionada uma nova seção chamada Formação Aca
 
 A seção Formação Acadêmica foi implementada utilizando HTML5 e componentes de layout do Bootstrap.
 
-Foi criado um elemento <section> com o identificador formacao, permitindo organizar o conteúdo em uma área independente da página.
+Foi criado um elemento `<section>` com o identificador formacao, permitindo organizar o conteúdo em uma área independente da página.
 
 Para sua construção, foram utilizados:
 
@@ -64,12 +64,12 @@ Para sua construção, foram utilizados:
 
 A estrutura principal foi desenvolvida com as seguintes tags HTML:
 
-* <section>: cria a seção Formação Acadêmica.
+* `<section>`: cria a seção Formação Acadêmica.
 
-* <div>: organiza os elementos e aplica as classes do Bootstrap.
+* `<div>`: organiza os elementos e aplica as classes do Bootstrap.
 
-* <h2>: apresenta o título da seção.
+* `<h2>`: apresenta o título da seção.
 
-* <h5>: identifica o curso realizado.
+* `<h5>`: identifica o curso realizado.
 
-* <p>: apresenta o nome da instituição e a modalidade do curso.
+* `<p>`: apresenta o nome da instituição e a modalidade do curso.
